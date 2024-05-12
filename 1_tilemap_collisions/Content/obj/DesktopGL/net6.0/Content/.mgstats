@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/dev/csharp/monogame/ytgame/Content/atlas.png","c:/dev/csharp/monogame/ytgame/Content/bin/DesktopGL/Content/atlas.xnb","TextureProcessor","Texture2DContent",1462,65621,0.0974434
+"c:/dev/csharp/monogame/ytgame/Content/hitboxes.png","c:/dev/csharp/monogame/ytgame/Content/bin/DesktopGL/Content/hitboxes.xnb","TextureProcessor","Texture2DContent",271,16469,0.0037185
+"c:/dev/csharp/monogame/ytgame/Content/player_static.png","c:/dev/csharp/monogame/ytgame/Content/bin/DesktopGL/Content/player_static.xnb","TextureProcessor","Texture2DContent",127,597,0.0019992
+"c:/dev/csharp/monogame/ytgame/Content/tempassets.png","c:/dev/csharp/monogame/ytgame/Content/bin/DesktopGL/Content/tempassets.xnb","TextureProcessor","Texture2DContent",1235,16469,0.0029272
